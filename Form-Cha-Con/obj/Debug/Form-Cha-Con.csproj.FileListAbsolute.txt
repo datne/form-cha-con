@@ -1,0 +1,12 @@
+d:\Form-Cha-Con\Form-Cha-Con\bin\Debug\Form-Cha-Con.exe.config
+d:\Form-Cha-Con\Form-Cha-Con\bin\Debug\Form-Cha-Con.exe
+d:\Form-Cha-Con\Form-Cha-Con\bin\Debug\Form-Cha-Con.pdb
+d:\Form-Cha-Con\Form-Cha-Con\obj\Debug\Form-Cha-Con.csprojResolveAssemblyReference.cache
+d:\Form-Cha-Con\Form-Cha-Con\obj\Debug\Form_Cha_Con.Form1.resources
+d:\Form-Cha-Con\Form-Cha-Con\obj\Debug\Form_Cha_Con.Properties.Resources.resources
+d:\Form-Cha-Con\Form-Cha-Con\obj\Debug\Form-Cha-Con.csproj.GenerateResource.Cache
+d:\Form-Cha-Con\Form-Cha-Con\obj\Debug\Form-Cha-Con.csproj.CoreCompileInputs.cache
+d:\Form-Cha-Con\Form-Cha-Con\obj\Debug\Form-Cha-Con.exe
+d:\Form-Cha-Con\Form-Cha-Con\obj\Debug\Form-Cha-Con.pdb
+d:\Form-Cha-Con\Form-Cha-Con\obj\Debug\Form_Cha_Con.TinhTong.resources
+d:\Form-Cha-Con\Form-Cha-Con\obj\Debug\Form_Cha_Con.XoSo.resources
